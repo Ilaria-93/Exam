@@ -1,5 +1,5 @@
 public class ArraySearch {
-    //private int[] arrayDiInteri = {1, 6, 13, 22, 35};
+    //private int[] arrayDiInteri = {1, 6, 13, 22, 35, 46};
 
     public boolean cercaNumeroSpecifico(int[] array, int x) {
         for (int i = 0; i < array.length; i++) {

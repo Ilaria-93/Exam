@@ -10,7 +10,7 @@
 public class Main {
     public static void main(String[] args) {
         ArraySearch search = new ArraySearch();
-        int[] arrayDiInteri = {1, 6, 13, 22, 35};
+        int[] arrayDiInteri = {1, 6, 13, 22, 35, 46};
         System.out.println("Il numero specifico nell'array è presente: " + search.cercaNumeroSpecifico(arrayDiInteri,3));
         System.out.println("La posizione del primo elemento pari è: " + search.trovaPosizioneIndice(arrayDiInteri));
     }
